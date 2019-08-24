@@ -1,0 +1,21 @@
+{
+  "name": "site-responsivo-do-zero-piratabar",
+  "homepage": "https://github.com/Vanderson-Andrade/site-responsivo-do-zero",
+  "authors": [
+    "Vanderson Andrade <vandersonandr@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.3.1"
+  }
+}
